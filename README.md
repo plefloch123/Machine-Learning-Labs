@@ -10,3 +10,4 @@ Table of Contents
 - **Lab 4: Simple Linear Regression**
 - **Lab 5: Multiple Linear & Logistic Regression, and PyTorch**
 - **Lab 6: Unsupervised Learning**
+- **Lab 7: Evolutionary Algorithms**
